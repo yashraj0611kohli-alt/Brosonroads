@@ -1,0 +1,15 @@
+.git
+.env
+.env.*
+node_modules
+.next
+.zscripts
+mini-services
+assets-search
+scripts
+tests
+db/custom.db
+*.log
+worklog.md
+check_*.jpg
+check_*.png
